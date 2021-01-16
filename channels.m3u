@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="logos/logo_net_big1.png" group-title="Indonesia",NET TV
+#EXTINF:-1 tvg-logo="https://github.com/erfanmuh/myiptvproject/tree/main/logos/logo_net_big1.png" group-title="Indonesia",NET TV
 https://dl.dropboxusercontent.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8
 
-#EXTINF:-1 tvg-logo="logos/logo_transtv_small1.png" group-title="Indonesia",Trans TV
+#EXTINF:-1 tvg-logo="https://github.com/erfanmuh/myiptvproject/tree/main/logos/logo_transtv_small1.png" group-title="Indonesia",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="logos/logo_trans7_small1.png" group-title="Indonesia",Trans 7
+#EXTINF:-1 tvg-logo="https://github.com/erfanmuh/myiptvproject/tree/main/logos/logo_trans7_small1.png" group-title="Indonesia",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="logos/logo_cnnindonesia_small1.png" group-title="Indonesia",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://github.com/erfanmuh/myiptvproject/tree/main/logos/logo_cnnindonesia_small1.png" group-title="Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="logos/logo_metrotv_small1.png" group-title="Indonesia",Metro TV
+#EXTINF:-1 tvg-logo="https://github.com/erfanmuh/myiptvproject/tree/main/logos/logo_metrotv_small1.png" group-title="Indonesia",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="logos/logo_tvone_small1.png" group-title="Indonesia",TV One
+#EXTINF:-1 tvg-logo="https://github.com/erfanmuh/myiptvproject/tree/main/logos/logo_tvone_small1.png" group-title="Indonesia",TV One
 http://nonton.wap.sh/id/010.m3u8
