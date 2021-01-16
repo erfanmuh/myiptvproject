@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="logos/logo_net_big1.png" group-title="Indonesia",NET TV
-player/net.m3u8
+play/net.m3u8
 
 #EXTINF:-1 tvg-logo="logos/logo_transtv_small1.png" group-title="Indonesia",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
