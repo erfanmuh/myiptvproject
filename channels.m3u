@@ -12,8 +12,18 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/erfanmuh/myiptvproject/tree/main/logos/logo_cnnindonesia_small1.png" group-title="Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/erfanmuh/myiptvproject/tree/main/logos/logo_metrotv_small1.png" group-title="Indonesia",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/erfanmuh/myiptvproject/tree/main/logos/logo_tvone_small1.png" group-title="Indonesia",TV One
 http://nonton.wap.sh/id/010.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/erfanmuh/myiptvproject/tree/main/logos/logo_beritasatu_small1.png" group-title="Indonesia",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/erfanmuh/myiptvproject/tree/main/logos/logo_jktglobe_small1.png" group-title="Indonesia",Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
